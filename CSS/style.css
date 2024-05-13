@@ -1,0 +1,18 @@
+.navbar .navbar-collapse .nav-link{
+    font-size: 20px;
+    color: white;
+    padding-left: 40px;
+}
+
+#top_nav{
+     padding-left: 25px;
+}
+#search_box::placeholder{
+     color:white
+}
+@media only screen and (max_width:500px){
+    .img-fluid{
+        height: 30px;
+        padding: 0px;
+    }
+}
